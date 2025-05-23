@@ -53,7 +53,8 @@ Design an *interactive sales dashboard* in *Power BI* to visualize performance b
 
 ---
 
-## 📦 Deliverables  
+## 📦 Deliverables 
+- ✅ The Sales Story Summary (ppt)
 - ✅ Cleaned dataset (Superstore_Sales.csv)  
 - ✅ Power BI dashboard file (.pbix)  
 - ✅ Dashboard screenshot  
